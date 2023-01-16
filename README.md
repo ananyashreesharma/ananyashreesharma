@@ -1,5 +1,4 @@
-- Hi, I’m @ananyashreesharma
-- I’m currently learning MERN Stack
+- Hi, I’m @ananyashreesharmA
 - I’m a student @ Dhirubhai Ambani Institute of Information & Communication Technology
 
 
