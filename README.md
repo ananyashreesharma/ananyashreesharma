@@ -1,10 +1,8 @@
-#Ananya 👨‍💻
-
 
 ---
 
-## Hi there 👋,
+## Hello there 👋,
 
-### I'm Anannyashree Sharma, I build things with code, sometimes meaningful other times not.
+### I'm Anannyashree Sharma, I bake things with code and love.
 -------
   
