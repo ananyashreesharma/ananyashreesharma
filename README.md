@@ -3,6 +3,6 @@
 
 ## Hello there 👋,
 
-### I'm Anannyashree Sharma, I bake things with code and love.
+### I'm Anannyashree Sharma, I bake things with code.
 -------
   
