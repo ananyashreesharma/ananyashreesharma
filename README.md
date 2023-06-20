@@ -3,5 +3,5 @@
 
 ## Hello there 👋,
 
-### I'm Anannyashree Sharma, I bake things with code.
+### I'm Anannyashree Sharma.
 -------
